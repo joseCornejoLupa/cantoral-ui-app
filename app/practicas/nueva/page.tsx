@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getPartituras } from '@/lib/api'
 import NuevaPracticaForm from './NuevaPracticaForm'
 

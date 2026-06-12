@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import Link from 'next/link'
 import { getPartituras } from '@/lib/api'
 import ImpresaToggle from './ImpresaToggle'

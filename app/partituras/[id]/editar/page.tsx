@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getPartitura } from '@/lib/api'
 import EditarPartituraForm from './EditarPartituraForm'
 import { notFound } from 'next/navigation'

@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getOrdinarios, getPartituras } from '@/lib/api'
 import { CrearOrdinarioForm, AsignarPiezaForm } from './OrdinariosForms'
 

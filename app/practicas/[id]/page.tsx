@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getNoImpresos, getPartituras } from '@/lib/api'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'

@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getSolemnidades } from '@/lib/api'
 import NuevaPartituraForm from './NuevaPartituraForm'
 

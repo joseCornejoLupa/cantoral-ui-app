@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import Link from 'next/link'
 import { getEventos } from '@/lib/api'
 import EliminarBtn from '@/app/partituras/EliminarBtn'

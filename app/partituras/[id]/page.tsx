@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getPartitura, getSolemnidades, getRecomendaciones } from '@/lib/api'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'

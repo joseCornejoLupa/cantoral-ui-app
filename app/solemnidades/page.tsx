@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { getSolemnidades, TipoSolemnidad } from '@/lib/api'
 import { CrearSolemnidadForm } from './CrearSolemnidadForm'
 
